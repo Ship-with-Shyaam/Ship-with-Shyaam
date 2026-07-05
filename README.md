@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Shyaam%20P&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Agent%20Engineer&descAlignY=55&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Shyaam%20P&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20Agent%20Engineer&descAlignY=55&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&background=00000000&width=600&height=40&lines=Building+across+the+full+stack;Now+leveling+up+in+AI+%26+Agents;Kubernetes+curious+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&background=00000000&width=600&height=40&lines=Building+across+the+full+stack;Now+leveling+up+in+AI+and+Agents;Kubernetes+curious+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 

@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&background=000000&width=600&height=60&lines=%24+whoami;Shyaam+P;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Shyaam%20P&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Agent%20Engineer&descAlignY=55&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&background=00000000&width=600&height=40&lines=Building+across+the+full+stack;Now+leveling+up+in+AI+%26+Agents;Kubernetes+curious+%F0%9F%9A%80" alt="Typing SVG" />
 
-```bash
-> cat ~/about_me.sh
-```
-
-```
-Full stack developer who builds across the web stack — frontend to backend
-to cloud — and is now extending into AI agent engineering and Kubernetes.
-```
-
-<div align="center">
+<br/>
 
 [![Email](https://img.shields.io/badge/-shyaampadmanathan99@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:shyaampadmanathan99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/shyaampadmanathan-b62277157)
@@ -21,9 +12,29 @@ to cloud — and is now extending into AI agent engineering and Kubernetes.
 
 </div>
 
----
+<br/>
 
-### `$ cat skills.yaml`
+<table align="center">
+<tr>
+<td>
+
+🚀&nbsp; **Full-Stack Developer** who builds across the entire web stack — frontend, backend, and cloud.
+
+🤖&nbsp; Currently leveling up in **AI Agent Engineering**, LLM tooling, and the **Model Context Protocol (MCP)**.
+
+☸️&nbsp; Exploring **Kubernetes** and cloud-native deployments.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=3&section=footer" width="100%"/>
+</div>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
 
 **Frontend**
 
@@ -59,3 +70,8 @@ to cloud — and is now extending into AI agent engineering and Kubernetes.
 ![MCP](https://img.shields.io/badge/-Model_Context_Protocol-000000?style=for-the-badge&logo=json&logoColor=39FF14)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=39FF14)
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+</div>
